@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Edam 👋
+### AI & Data Science Student 🚀
 
-<!--
-**Edam-laa/Edam-laa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn raw data into actionable solutions by combining Machine Learning, Data Engineering, and web development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My Areas of Expertise
+- **Machine Learning & Deep Learning:** classification, prediction, NLP, computer vision.  
+- **Data Engineering & Data Warehousing:** modeling, ETL, data analysis.  
+- **AI Deployment & Web Applications:** building interactive applications to make models accessible.
+
+## 💻 Technologies I Use
+- **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, PyTorch), SQL  
+- **Front-end & Web Development:** Angular, TypeScript, Streamlit, FastAPI  
+- **AI & Cloud Tools:** HuggingFace, LangChain, OpenAI API, Docker  
+
+## 📊 Recent Projects
+- **Airline Analytics Data Warehouse** – Comprehensive analysis of airline flights.  
+
+## ⚡ Goal
+Apply my AI and Data Science skills to build impactful projects and solve real business problems.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/edam-laadhar/) | [GitHub](https://github.com/Edam-laa) | [Email](ladharedam036@gmail.com)
+
