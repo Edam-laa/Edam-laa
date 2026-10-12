@@ -1,90 +1,39 @@
-# Hi, I'm Edam ⭐
-### AI Engineer in Progress  
+# Edam Laadhar
 
- I’m a Data Science student specializing in **Artificial Intelligence**, with a strong focus on building intelligent systems using **Machine Learning, Deep Learning, Generative AI, and Agentic AI**.
+**Data Science & Artificial Intelligence Engineering Student (2nd year)**  
+**AI / LLM Engineering · Machine Learning · Software Engineering**
 
-My goal is to become an **AI Engineer**, capable of designing, developing, and deploying scalable AI-powered applications.
+I build practical AI and software solutions, with experience across **FinTech and financial document intelligence**, **AI-enabled workflow automation**, and **full-stack business applications**. My focus is on combining solid engineering fundamentals with reliable, measurable AI systems.
 
----
+## Engineering experience
 
-##  About Me
-I design and build end-to-end projects that combine **data, algorithms, and modern technologies** to solve real-world problems.
+- **RNE — FinStat-TN (Jul–Aug 2026):** AI-powered financial statement analysis using document intelligence, retrieval-augmented generation (RAG), Qwen, and knowledge grounded in Tunisian accounting standards.
+- **INCYIA (Sep–Oct 2026, ongoing):** B2B prospecting automation, API integrations, n8n workflows, and exploration of generative AI for qualification.
+- **PUR Filtre (Apr–Jun 2026; project delivery ongoing):** Requirements analysis and full-stack development of an industrial catalog application with Next.js, PostgreSQL, and Supabase.
 
-Through my work, I focus on:
-- Developing intelligent models  
-- Understanding complex data patterns  
-- Building interactive applications powered by AI  
+> Client, company and confidential datasets/code are **not published here**. Public repositories below demonstrate transferable skills through projects I am allowed to share.
 
----
+## Selected public work
 
-##  What I Do
-- **Machine Learning & Deep Learning**  
-  Prediction, classification, dimensionality reduction (PCA), and model optimization  
+| Project | Focus | Repository |
+|---|---|---|
+| Airline Loyalty Data Warehouse | SQL Server, SSIS, ETL, dimensional modeling | [View code](https://github.com/Edam-laa/Airline-Loyalty-Data-Warehouse) |
+| Real Estate Big Data Analytics | Data processing and analytics | [View code](https://github.com/Edam-laa/real-estate-big-data-analytics-platform) |
+| Machine Learning Fundamentals | Regression, classification, clustering, evaluation | [View notebooks](https://github.com/Edam-laa/machine-learning-fundamentals) |
+| GraphAlgo Pro | Python algorithms, Flask, PySide6, automated tests | [View code](https://github.com/Edam-laa/graph_lab) |
+| Afrigate Website | Next.js, TypeScript, multilingual B2B web application | [View code](https://github.com/Edam-laa/afrigate-site) |
 
--  **Generative AI & Agentic AI**  
-  Working with LLMs, AI agents, and modern AI frameworks  
+## Technology stack
 
--  **AI Applications Development**  
-  Creating full-stack applications and dashboards to make AI systems usable  
+- **AI / Data:** Python, PyTorch, scikit-learn, Pandas, NumPy, NLP, RAG, vector search, FAISS
+- **Backend / Data Engineering:** SQL, PostgreSQL, SQL Server, Supabase, ETL, REST APIs
+- **Automation / Application Development:** n8n, TypeScript, React, Next.js, Docker, Git
+- **Cloud:** AWS fundamentals (EC2, S3, VPC, Lambda)
 
--  **Data Analysis & Modeling**  
-  Extracting insights and building structured analytical solutions  
+## What I'm building toward
 
----
+I'm deepening my skills in **agentic AI, computer vision, evaluation, MLOps and deployment**, with an emphasis on reproducible experiments, testing, and responsible application design.
 
-## Tech Stack
-- **Languages & Programming:**  
-  Python, SQL, JavaScript, TypeScript, Java, C, C++, Bash  
+**Open to:** paid, study-compatible internships, part-time roles and project-based opportunities in AI/LLM Engineering, ML Engineering, Python/backend development and AI automation.
 
-- **AI & Data Libraries:**  
-  Pandas, NumPy, Scikit-learn, PyTorch  
-
-- **AI & LLM Tools:**  
-  Hugging Face, LangChain, OpenAI API  
-
-- **Web & Application Development:**  
-  Angular, Streamlit, FastAPI  
-
-- **Tools & Environment:**  
-  Docker, Git, Linux  
-
----
-
-##  Featured Projects
--  **Visio Dashboard (Angular)**  
-  Interactive web dashboard for data visualization and user interaction  
-
--  **Real Estate Big Data Analytics Platform**  
-  Data-driven platform for analyzing large-scale real estate datasets  
-
--  **Airline Data Warehouse**  
-  End-to-end data warehouse project for analyzing airline operations  
-
--  **Airbnb Price Analysis using PCA**  
-  Dimensionality reduction and statistical analysis to understand pricing factors  
-
--  **Machine Learning Fundamentals**  
-  Implementation of core ML algorithms (KNN, regression, classification)  
-
--  **Graph Analysis & Algorithms Lab**  
-  Exploration of graph theory and algorithmic problem-solving  
-
- All projects were **fully designed and implemented by me**, from data processing to model development and application building.
-
----
-
-##  Current Focus
-- Advancing in **Generative AI & Agentic AI systems**  
-- Building **real-world AI applications**  
-- Strengthening skills in **AI system design and deployment**  
-
----
-
-## Let's Connect
--  [LinkedIn](https://www.linkedin.com/in/edam-laadhar/)  
--  [GitHub](https://github.com/Edam-laa)  
--  Email: ladharedam036@gmail.com  
-
----
-
- *Open to internships and opportunities in Artificial Intelligence and AI Engineering.*
+[LinkedIn](https://www.linkedin.com/in/edam-laadhar/) · [GitHub](https://github.com/Edam-laa)
