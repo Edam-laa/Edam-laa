@@ -56,6 +56,17 @@ A team-built graph algorithm laboratory with desktop graph editing, an HTTP exec
 | [Machine Learning Fundamentals](https://github.com/Edam-laa/machine-learning-fundamentals) | Regression, classification, clustering and foundational neural-network notebooks |
 | [Afrigate Web Application](https://github.com/Edam-laa/afrigate-site) | Next.js, TypeScript, responsive business site, multilingual features |
 
+### 05 — PUR Filtre | Full-Stack Industrial Catalog Platform
+**PostgreSQL · Supabase · React · TypeScript · Next.js · API contracts · Testing**
+
+A private team software project covering multiple stages of business application development: requirements, relational modeling, governed search and catalog interfaces, administration, frontend integration, quality checks, and release preparation.
+
+- Worked within an architecture separating a PostgreSQL/Supabase data layer, private administration and the customer-facing site.
+- Emphasized database access controls, reusable business contracts, validation and cross-team integration.
+- Distinguished verified development checkpoints from deployment and production claims.
+
+**Professional team project · private source.** Individual contributions, client assets and implementation details are only shareable with permission.
+
 ## Professional engineering experience
 
 **Financial document intelligence** — explored extraction, RAG and accounting validation for Tunisian financial reports.
