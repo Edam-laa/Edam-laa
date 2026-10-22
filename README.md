@@ -1,93 +1,82 @@
 # Edam Laadhar
 
-**Data Science & Artificial Intelligence Engineering Student | Building practical AI systems**
+**Data Science & AI Engineering Student | AI/LLM Engineering · Data Engineering · Full-Stack Systems**
 
-**AI & LLM Engineering • Data Engineering • ML • Workflow Automation**
+I build practical software and data systems — from financial document intelligence and API-driven automation to SQL data platforms and business applications. My focus is **engineering beyond the notebook**: clear architectures, reliable data contracts, reproducible experiments, security boundaries and validation.
 
-I work at the intersection of **machine learning, document intelligence, data pipelines, and software engineering**. I enjoy taking ideas beyond isolated notebooks: designing workflows, integrating APIs, building reproducible experiments, and documenting the trade-offs behind technical decisions.
+Based in Tunisia · Interested in **international AI/ML internships, research opportunities, part-time engineering roles and applied AI projects**.
 
-Currently completing my second year of engineering studies, I am interested in **international research or industry internships**, part-time technical roles, and meaningful AI/data projects.
+## Selected engineering work
 
-## Selected projects
+### 01 · FinStat-TN — Financial Document Intelligence & RAG
+**Python · MinerU · Docling · multilingual-E5 · FAISS · Qwen · JSON schemas · Decimal**
 
-### 01 — FinStat-TN | Financial Document Intelligence & RAG
-**Python · MinerU · Docling · Retrieval · FAISS · Qwen · Deterministic accounting validation**
+AI-assisted processing of Tunisian financial statements, combining independent PDF extractors, evidence-grounded context building, normative retrieval, structured LLM decisions and deterministic accounting calculations.
 
-Developed an AI-assisted approach to extracting and structuring Tunisian financial statements. The engineering work spans dual PDF extraction, evidence-aware document processing, normative retrieval, LLM evaluation, structured decisions, and deterministic post-processing.
+- Designed around an **LLM → verified structured decision → deterministic calculation** boundary.
+- Built technical evaluation workflows for retrieval, model behavior and architecture choices.
+- Scoped the MVP to balance sheets, income statements and a **53-field** structured output contract.
 
-- Designed an extensible separation between document extraction, model decisions and accounting calculations.
-- Worked with benchmarking and engineering decision records to compare technical alternatives.
-- Kept real financial documents and client data out of the public portfolio.
+**Professional R&D | Private repository.** No client PDFs, proprietary code or sensitive accounting records are publicly shared.
 
-**Private research/internship code.** A sanitized independent technical case study can be provided when authorized.
+### 02 · PUR Filtre — Industrial Catalog Platform
+**PostgreSQL · Supabase · SQL/RPC · RLS · React/TypeScript · Next.js · Testing**
 
-### 02 — ProspectFlow | API-Driven B2B Lead Discovery Automation
-**n8n · JavaScript · Apollo API · Tavily · Google Sheets · REST APIs**
+A **full-stack team project** spanning business requirements, relational modeling, secure product access, catalog/search contracts, private administration, customer-facing frontend integration and staged release work.
 
-An internship-based automation workflow for research, qualification and controlled delivery of B2B prospects. The sanitized workflow export contains **46 n8n nodes, including 18 JavaScript Code nodes**.
+- Governed search and catalog access at the database/API layer rather than duplicating business logic in the UI.
+- Incorporated role-based restrictions, private object storage, migrations and validation workflows.
+- Experienced the complexity of coordinating backend contracts, frontend integration and test gates.
 
-- Integrated people discovery, targeted web research and contact enrichment.
-- Built deterministic filtering, deduplication, ranking and operational checks.
-- Designed a safe offline/default gate and a separate controlled delivery path.
-- Documented the limitations of API availability, identity matching and asynchronous phone handling.
+**Professional team project | Private repository.** Contributions are collaborative; this is not a claim of sole authorship or completed production rollout.
 
-**Professional project · private repository.** No customer records, credentials or unauthorized workflow screenshots are publicly shared.
+### 03 · ProspectFlow — B2B Discovery & Automation
+**n8n · JavaScript · Apollo API · Tavily · HTTP APIs · Google Sheets**
 
-### 03 — Real Estate Big Data Analytics
-**Python · Pandas · Docker · HDFS · Spark MLlib · PostgreSQL**
+An API-driven internship workflow for finding and qualifying B2B contacts, with deterministic scoring, identity checks, deduplication before enrichment and controlled spreadsheet delivery.
 
-An academic end-to-end data-engineering and property-price modeling project: prepared Ames Housing data, distributed storage and regression experiments, relational storage, and analytical visualizations.
+- **46-node sanitized workflow design**, including **18 JavaScript Code nodes**.
+- Built around safe offline/live execution separation, bounded lead batches and explicit data-quality rules.
+- Handles external search and enrichment APIs, including imperfect responses and asynchronous phone enrichment.
 
-[Explore repository](https://github.com/Edam-laa/real-estate-big-data-analytics-platform)
+**Professional internship project | Private repository.** This is workflow engineering, **not an LLM agent**. Real prospects, credentials and business screenshots are not published.
 
-### 04 — GraphAlgo Pro
-**Python · Flask · PySide6 · Graph Algorithms · pytest**
+---
 
-A team-built graph algorithm laboratory with desktop graph editing, an HTTP execution layer, implementations of classical graph algorithms and dedicated tests.
+## Public code you can review
 
-[Explore repository](https://github.com/Edam-laa/graph_lab)
+| Repository | Engineering focus | Technologies / evidence |
+| --- | --- | --- |
+| **[Real Estate Big Data Analytics](https://github.com/Edam-laa/real-estate-big-data-analytics-platform)** | Multi-stage data platform and regression experiments | Pandas, HDFS, Spark MLlib, PostgreSQL, Docker, charts |
+| **[GraphAlgo Pro](https://github.com/Edam-laa/graph_lab)** | Desktop graph editor and modular algorithm execution | Python, PySide6, Flask, algorithm tests |
+| **[Airline Loyalty Data Warehouse](https://github.com/Edam-laa/Airline-Loyalty-Data-Warehouse)** | Staging, dimensional warehouse and exploratory analysis | SQL Server, SSIS workflow evidence, SQL/Python |
+| **[Paris Airbnb — PCA](https://github.com/Edam-laa/Analyse-des-facteurs-influencant-les-prix-Airbnb-avec-ACP)** | Multivariate statistical analysis | Python, scikit-learn, PCA plots and loadings |
+| **[Machine Learning Fundamentals](https://github.com/Edam-laa/machine-learning-fundamentals)** | Organized ML learning notebooks | Regression, classification, clustering, neural networks |
+| **[Afrigate Website](https://github.com/Edam-laa/afrigate-site)** | Multilingual B2B web application | Next.js, TypeScript, React, responsive UI |
 
-### More work
+*Public academic projects show source code and artifacts; they do not all represent deployed production systems. Their READMEs state the reproducibility and validation limits.*
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Airline Loyalty Data Warehouse](https://github.com/Edam-laa/Airline-Loyalty-Data-Warehouse) | SQL Server, dimensional modeling, ETL documentation, analytical queries |
-| [Paris Airbnb PCA](https://github.com/Edam-laa/Analyse-des-facteurs-influencant-les-prix-Airbnb-avec-ACP) | Multivariate statistics, principal component analysis, visual interpretation |
-| [Machine Learning Fundamentals](https://github.com/Edam-laa/machine-learning-fundamentals) | Regression, classification, clustering and foundational neural-network notebooks |
-| [Afrigate Web Application](https://github.com/Edam-laa/afrigate-site) | Next.js, TypeScript, responsive business site, multilingual features |
+## Engineering toolbox
 
-### 05 — PUR Filtre | Full-Stack Industrial Catalog Platform
-**PostgreSQL · Supabase · React · TypeScript · Next.js · API contracts · Testing**
+**AI & ML** — Python, PyTorch, scikit-learn, NLP, RAG, embeddings, FAISS, evaluation
 
-A private team software project covering multiple stages of business application development: requirements, relational modeling, governed search and catalog interfaces, administration, frontend integration, quality checks, and release preparation.
+**Data systems** — Pandas, NumPy, SQL, PostgreSQL, SQL Server, Spark, HDFS, ETL, data modeling
 
-- Worked within an architecture separating a PostgreSQL/Supabase data layer, private administration and the customer-facing site.
-- Emphasized database access controls, reusable business contracts, validation and cross-team integration.
-- Distinguished verified development checkpoints from deployment and production claims.
+**Product engineering** — TypeScript, JavaScript, Next.js, React, REST APIs, Flask, Supabase
 
-**Professional team project · private source.** Individual contributions, client assets and implementation details are only shareable with permission.
+**Automation & delivery** — n8n, Docker, Git/GitHub, tests, schemas, technical documentation
 
-## Professional engineering experience
+## How I approach engineering
 
-**Financial document intelligence** — explored extraction, RAG and accounting validation for Tunisian financial reports.
+1. **Understand the business or research problem** before choosing the technology.
+2. **Design the contract and boundaries** between data, models, services and UI.
+3. **Evaluate against evidence**, including failure cases and reproducible checks.
+4. **Document what works and what remains unverified** rather than overstating results.
 
-**Workflow automation** — designed API integrations, lead qualification and controlled n8n execution for an internship use case.
+## Open to opportunities
 
-**Full-stack development** — contributed to industrial catalog application work with Next.js, PostgreSQL and Supabase.
+I'm interested in **AI/LLM Engineering, Applied ML, Data Engineering and research-oriented internship opportunities**, especially teams building reliable, measurable systems.
 
-> Confidential repositories, real prospect records, financial PDFs and company-owned assets are not released as portfolio artifacts without appropriate authorization.
+[**LinkedIn**](https://www.linkedin.com/in/edam-laadhar/) · [**All public repositories**](https://github.com/Edam-laa?tab=repositories)
 
-## Technical focus
-
-**AI/ML:** Python, scikit-learn, PyTorch, Pandas, NLP, RAG, embeddings, FAISS, model evaluation  
-**Data engineering:** SQL, PostgreSQL, SQL Server, Apache Spark, HDFS, ETL, Docker  
-**Applications & automation:** n8n, REST APIs, JavaScript/TypeScript, Next.js, React, Git  
-**Engineering practices:** modular pipelines, structured outputs, testing, evidence tracking, reproducibility
-
-## Let's connect
-
-Interested in **AI/LLM Engineering, ML Engineering, Data Engineering, research-oriented internships, and part-time opportunities**.
-
-[LinkedIn](https://www.linkedin.com/in/edam-laadhar/) · [GitHub projects](https://github.com/Edam-laa?tab=repositories)
-
-*This portfolio distinguishes academic work, private professional projects and publicly reproducible code. Project metrics are presented only when supported by verifiable artifacts.*
+> Confidential work is summarized at a high level only. Access to proprietary implementations, customer data and screenshots requires the relevant owner's permission.
