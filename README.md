@@ -75,6 +75,7 @@ The projects below are genuine engineering work, but the implementation reposito
 | [Airline Loyalty Data Warehouse](https://github.com/Edam-laa/Airline-Loyalty-Data-Warehouse) | SQL Server warehouse schema, SSIS workflow evidence and analytics |
 | [Afrigate Website](https://github.com/Edam-laa/afrigate-site) | Multilingual Next.js/TypeScript corporate site with API-backed contact and quotation forms |
 | [Machine Learning Fundamentals](https://github.com/Edam-laa/machine-learning-fundamentals) | Organized regression, classification, clustering and neural-network notebooks |
+| [VCE-PRO — Angular Exam Prototype](https://github.com/Edam-laa/VCE-PRO) | Angular 21/TypeScript exam UI with teacher and candidate workflows; source and authentic screenshots on `master`, browser-only demo persistence |
 
 ## Technical toolkit
 
